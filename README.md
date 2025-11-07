@@ -58,4 +58,4 @@ sudo diff -u /etc/zabbix/zabbix_agent2.conf-orig /etc/zabbix/zabbix_agent2.conf
 sudo systemctl restart zabbix-agent2
 
 
-![Můj registrovaný host](Snímek obrazovky.png)
+![Můj registrovaný host](Screen.png)
